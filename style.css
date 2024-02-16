@@ -378,6 +378,8 @@ article .icon {
     border-radius: 2rem;
     width: 90%;
     height: 90%;
+    border: 1px solid grey;
+
 }
 
 .project-title {
@@ -440,6 +442,6 @@ footer {
     margin: 0 1rem;
 }
 
-.project-2-spacing {
-    padding: 12.5%;
+.project-2-section {
+    padding-top: 17%;
 }
